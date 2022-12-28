@@ -1,0 +1,1 @@
+export cosnt BASE_URL = "https://dummyjson.com/products";
